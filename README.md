@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Fares Ben Afia!
 
 I'm a dedicated **Software Developer** who enjoys turning ideas into working software. My main focus is full-stack development, and I'm always seeking opportunities to build scalable, user-friendly applications.
 
