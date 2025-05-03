@@ -31,7 +31,6 @@ I'm a dedicated **Software Developer** who enjoys turning ideas into working sof
 
 **Tools & Platforms:**
 - Git / GitHub
-- Docker
 - VS Code
 - Linux / Bash
 
